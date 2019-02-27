@@ -1,0 +1,12 @@
+footer.elm-footer,
+.site_search,
+#elm-main-content,
+#elm-header .elm-live-notice,
+.elm-header-hierarchy,
+.elm-user-pro-member .elm-header-user-nav,
+.elm-header-user-nav.elm-nav,
+#elm-header .elm-header-notice{
+width: -moz-calc(100% - 280px);
+width: -webkit-calc(100% - 280px);
+width: calc(100% - 280px);
+}
